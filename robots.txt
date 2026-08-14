@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-9or551.salamcuanwin.xyz/sitemap.xml
